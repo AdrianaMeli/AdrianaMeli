@@ -8,9 +8,9 @@
  ##
 
 <div align="center">
-   <a href="https://github.com/amanda-lobo">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adriana-lobo&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriana-lobo&layout=compact&langs_count=7&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6"/>
+   <a href="https://github.com/AdrianaMeli">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrianaMeli&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&layout=compact&hide=issues,contribs&bg_color=00000000"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaMeli&layout=compact&langs_count=7&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6"/>
 </div>
  
  <div align="center" style="display: inline_block"><br>
@@ -31,4 +31,4 @@
 
 <h2 align="center">:hearts: Thanks for visiting :hearts:</h2>
 
-//![Snake animation](https://github.com/amanda-lobo/amanda-lobo/blob/output/github-contribution-grid-snake.svg)//
+![Snake animation](https://github.com/amanda-lobo/amanda-lobo/blob/output/github-contribution-grid-snake.svg)
